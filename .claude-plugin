@@ -1,0 +1,105 @@
+{
+  "name": "skills",
+  "description": "A curated collection of agent skills for Claude Code covering planning, development, tooling, and writing.",
+  "version": "1.0.0",
+  "type": "collection",
+  "author": "hsiang-linc",
+  "repository": "https://github.com/hsiang-linc/skills",
+  "skills": [
+    {
+      "name": "design-an-interface",
+      "path": "design-an-interface",
+      "category": "planning"
+    },
+    {
+      "name": "grill-me",
+      "path": "grill-me",
+      "category": "planning"
+    },
+    {
+      "name": "prd-to-issues",
+      "path": "prd-to-issues",
+      "category": "planning"
+    },
+    {
+      "name": "prd-to-plan",
+      "path": "prd-to-plan",
+      "category": "planning"
+    },
+    {
+      "name": "request-refactor-plan",
+      "path": "request-refactor-plan",
+      "category": "planning"
+    },
+    {
+      "name": "write-a-prd",
+      "path": "write-a-prd",
+      "category": "planning"
+    },
+    {
+      "name": "improve-codebase-architecture",
+      "path": "improve-codebase-architecture",
+      "category": "development"
+    },
+    {
+      "name": "migrate-to-shoehorn",
+      "path": "migrate-to-shoehorn",
+      "category": "development"
+    },
+    {
+      "name": "scaffold-exercises",
+      "path": "scaffold-exercises",
+      "category": "development"
+    },
+    {
+      "name": "tdd",
+      "path": "tdd",
+      "category": "development"
+    },
+    {
+      "name": "triage-issue",
+      "path": "triage-issue",
+      "category": "development"
+    },
+    {
+      "name": "git-guardrails-claude-code",
+      "path": "git-guardrails-claude-code",
+      "category": "tooling"
+    },
+    {
+      "name": "github-triage",
+      "path": "github-triage",
+      "category": "tooling"
+    },
+    {
+      "name": "setup-pre-commit",
+      "path": "setup-pre-commit",
+      "category": "tooling"
+    },
+    {
+      "name": "edit-article",
+      "path": "edit-article",
+      "category": "writing"
+    },
+    {
+      "name": "obsidian-vault",
+      "path": "obsidian-vault",
+      "category": "writing"
+    },
+    {
+      "name": "qa",
+      "path": "qa",
+      "category": "writing"
+    },
+    {
+      "name": "ubiquitous-language",
+      "path": "ubiquitous-language",
+      "category": "writing"
+    },
+    {
+      "name": "write-a-skill",
+      "path": "write-a-skill",
+      "category": "writing"
+    }
+  ]
+}
