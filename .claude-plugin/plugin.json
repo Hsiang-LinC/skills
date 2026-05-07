@@ -1,0 +1,13 @@
+{
+  "name": "skills",
+  "description": "A curated collection of agent skills for Claude Code covering planning, development, tooling, and writing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hsiang-linc",
+    "url": "https://github.com/hsiang-linc/skills"
+  },
+  "repository": "https://github.com/hsiang-linc/skills",
+  "license": "MIT",
+  "keywords": ["skills", "planning", "development", "tooling", "writing", "tdd", "prd"],
+  "skills": "./"
+}
